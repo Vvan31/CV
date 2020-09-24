@@ -13,18 +13,18 @@ Estudiante de 6to semestre de Ingeniería de Sistemas Computacionales con experi
 <img src="https://media.giphy.com/media/Ut5BYxX8l2AAaR38n4/giphy.gif">
 <p>
 IT Complements. <br>
-Creador de contenidos:                                                                                Junio-Julio 2020.  <br>
-Elaboración colaborativa en la creación de contenido,  <br>
-animación y edición del video de un curso tecnológico  <br>
-en línea para la plataforma “Hotware”.  <br>
+Creador de contenidos:       &nbsp&nbsp&nbsp&nbsp                Junio-Julio 2020.  <br>
+&nbsp&nbsp&nbsp&nbsp  Elaboración colaborativa en la creación de contenido,  <br>
+&nbsp&nbsp&nbsp&nbsp  animación y edición del video de un curso tecnológico  <br>
+&nbsp&nbsp&nbsp&nbsp  en línea para la plataforma “Hotware”.  <br>
 
-Constructor:                                                                                    Agosto-Septiembre 2018. <br>
-Elaboración colaborativa en la construcción de sistemas  <br>
-de facturación con la herramienta de desarrollo “Hotware”.    <br>
+Constructor:                          &nbsp&nbsp&nbsp&nbsp                              Agosto-Septiembre 2018. <br>
+&nbsp&nbsp&nbsp&nbsp  Elaboración colaborativa en la construcción de sistemas  <br>
+&nbsp&nbsp&nbsp&nbsp  de facturación con la herramienta de desarrollo “Hotware”.    <br>
 
-Diseñadora web:                                                                                                  Marzo 2019.  <br>
-Elaboración colaborativa en la creación de contenido en  <br>
-la plataforma web del gobierno de Querétaro.   <br>
+Diseñadora web:                   &nbsp&nbsp&nbsp&nbsp                                                   Marzo 2019.  <br>
+&nbsp&nbsp&nbsp&nbsp  Elaboración colaborativa en la creación de contenido en  <br>
+&nbsp&nbsp&nbsp&nbsp  la plataforma web del gobierno de Querétaro.   <br>
 </p> 
 C: \Experiencia voluntariado>_
 Fundación Nuestra Historia. 2018. Participé en un proyecto de reforestación de un bosque. 
