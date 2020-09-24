@@ -1,11 +1,11 @@
 <h1>Viviana Osorio Nieto </h1>
 <h3>Ingeniería en Sistemas Computacionales. </h3> <br>
 <p>
-<h3> C: \Información de contacto>_   </h3> 
-• Atizapán de Zaragoza , Estado de México
-• Celular: 5624107174
-Telefono: 53080785  
-• v31.osorio@gmail.com 
+<h3> C: \Información de contacto>_   </h3> <br>
+• Atizapán de Zaragoza , Estado de México <br>
+• Celular: 5624107174** <br>
+Telefono: 53080785**  <br>
+• v31.osorio@gmail.com** <br>
 </p>
 
 Estudiante de 6to semestre de Ingeniería de Sistemas Computacionales con experiencia en construcción de programas orientados a procesos y desarrollo de creación de contenido tecnológico en plataformas web. Interesada por la creación de nuevas soluciones en ciencia de datos y con interés en la difusión tecnológica destinada a disminuir la brecha de género en la tecnología. Busco concentrarme en el campo de administración de proyectos tecnológicos y desarrollo de nuevas metodologías destinadas a automatizar procesos. Poseo competencias de resolución de problemas, liderazgo y me considero una persona muy responsable, honesta y comprometida con el desarrollo moral y espiritual. 
