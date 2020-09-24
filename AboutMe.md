@@ -4,7 +4,7 @@
 <p>
 • Atizapán de Zaragoza , Estado de México <br>
 • Celular: 5624107174 <br>
-Telefono: 53080785  <br>
+• Telefono: 53080785  <br>
 • v31.osorio@gmail.com <br>
 </p>
 
@@ -12,19 +12,19 @@ Estudiante de 6to semestre de Ingeniería de Sistemas Computacionales con experi
 
 <img src="https://media.giphy.com/media/Ut5BYxX8l2AAaR38n4/giphy.gif">
 <p>
-IT Complements. 
-Creador de contenidos:                                                                                Junio-Julio 2020. 
-Elaboración colaborativa en la creación de contenido, 
-animación y edición del video de un curso tecnológico 
-en línea para la plataforma “Hotware”. 
+IT Complements. <br>
+Creador de contenidos:                                                                                Junio-Julio 2020.  <br>
+Elaboración colaborativa en la creación de contenido,  <br>
+animación y edición del video de un curso tecnológico  <br>
+en línea para la plataforma “Hotware”.  <br>
 
-Constructor:                                                                                    Agosto-Septiembre 2018.
-Elaboración colaborativa en la construcción de sistemas 
-de facturación con la herramienta de desarrollo “Hotware”.   
+Constructor:                                                                                    Agosto-Septiembre 2018. <br>
+Elaboración colaborativa en la construcción de sistemas  <br>
+de facturación con la herramienta de desarrollo “Hotware”.    <br>
 
-Diseñadora web:                                                                                                  Marzo 2019. 
-Elaboración colaborativa en la creación de contenido en 
-la plataforma web del gobierno de Querétaro.  
+Diseñadora web:                                                                                                  Marzo 2019.  <br>
+Elaboración colaborativa en la creación de contenido en  <br>
+la plataforma web del gobierno de Querétaro.   <br>
 </p> 
 C: \Experiencia voluntariado>_
 Fundación Nuestra Historia. 2018. Participé en un proyecto de reforestación de un bosque. 
