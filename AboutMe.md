@@ -1,7 +1,7 @@
 <h1>Viviana Osorio Nieto </h1>
 <h3>Ingeniería en Sistemas Computacionales. </h3> <br>
+![gif](https://media.giphy.com/media/ym4VXxxECzIT6a5c7Z/giphy.gif)
 <p>
-<h3> C: \Información de contacto>_   </h3> <br>
 • Atizapán de Zaragoza , Estado de México <br>
 • Celular: 5624107174 <br>
 Telefono: 53080785  <br>
