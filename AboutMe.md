@@ -9,7 +9,7 @@
 </p>
 
 Estudiante de 6to semestre de Ingeniería de Sistemas Computacionales con experiencia en construcción de programas orientados a procesos y desarrollo de creación de contenido tecnológico en plataformas web. Interesada por la creación de nuevas soluciones en ciencia de datos y con interés en la difusión tecnológica destinada a disminuir la brecha de género en la tecnología. Busco concentrarme en el campo de administración de proyectos tecnológicos y desarrollo de nuevas metodologías destinadas a automatizar procesos. Poseo competencias de resolución de problemas, liderazgo y me considero una persona muy responsable, honesta y comprometida con el desarrollo moral y espiritual. 
-
+<br> 
 <img src="https://media.giphy.com/media/Ut5BYxX8l2AAaR38n4/giphy.gif">
 <pre>
 IT Complements. <br>
@@ -39,5 +39,5 @@ Tecnológico de Monterrey, Campus Estado de México. Agosto 2017 – Actual <br>
 Ingeniería en Sistemas Computacionales. <br>
 Fecha de graduación: Diciembre 2022 <br><br>
 
-C: \Datos personales>_
+<img src="https://media.giphy.com/media/17MeIJkAJEqFa09EEg/giphy.gif">
 Inglés – B2, Microsoft Office – Intermedio, Java – Avanzado, C – Intermedio, SQL- avanzado y Python – Avanzado. 
