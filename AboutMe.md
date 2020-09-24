@@ -26,16 +26,18 @@ Diseñadora web:                  &nbsp;&nbsp;&nbsp;&nbsp;                      
 &nbsp;&nbsp;&nbsp;&nbsp;  Elaboración colaborativa en la creación de contenido en  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;  la plataforma web del gobierno de Querétaro.   <br>
 </pre> 
-C: \Experiencia voluntariado>_
-Fundación Nuestra Historia. 2018. Participé en un proyecto de reforestación de un bosque. 
-MIT en convenio con el Tecnológico de Monterrey. 2019 Participé como instructora en el programa “Patrones Hermosos”. Cuyo propósito es introducir, en temas generales, a mujeres jóvenes en temas tecnológicos.  
-C: \Educación>_
+<img src="https://media.giphy.com/media/qoPsXLffyEx5zbWOyk/giphy.gif">
+Fundación Nuestra Historia. 2018. Participé en un proyecto de reforestación de un bosque. <br>
+MIT en convenio con el Tecnológico de Monterrey. 2019 Participé como instructora en el programa “Patrones Hermosos”. Cuyo propósito es introducir, en temas generales, a mujeres jóvenes en temas tecnológicos.   <br> 
 
-Diplomado en Outbound Marketing 2020
 
-Tecnológico de Monterrey, Campus Estado de México. Agosto 2017 – Actual 
-Ingeniería en Sistemas Computacionales. 
-Fecha de graduación: Diciembre 2022 
+<img src="https://media.giphy.com/media/NGGFvE0nHxwNG3QLHV/giphy.gif">
+
+Diplomado en Outbound Marketing 2020 <br> 
+
+Tecnológico de Monterrey, Campus Estado de México. Agosto 2017 – Actual <br> 
+Ingeniería en Sistemas Computacionales. <br>
+Fecha de graduación: Diciembre 2022 <br>
 
 C: \Datos personales>_
 Inglés – B2, Microsoft Office – Intermedio, Java – Avanzado, C – Intermedio, SQL- avanzado y Python – Avanzado. 
