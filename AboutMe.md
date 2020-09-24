@@ -31,7 +31,7 @@ Fundación Nuestra Historia. 2018. Participé en un proyecto de reforestación d
 MIT en convenio con el Tecnológico de Monterrey. 2019 Participé como instructora en el programa “Patrones Hermosos”. Cuyo propósito es introducir, en temas generales, a mujeres jóvenes en temas tecnológicos.   <br> 
 
 <br><br>
-<img src="https://media.giphy.com/media/NGGFvE0nHxwNG3QLHV/giphy.gif">
+<img src="https://media.giphy.com/media/ozBkpa47CVUamGSLZT/giphy.gif">
 
 Diplomado en Outbound Marketing 2020 <br> 
 
