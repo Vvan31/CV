@@ -41,13 +41,14 @@ Participé como instructora en el programa “Patrones Hermosos”. Cuyo propós
 <br><br>
 <img src="https://media.giphy.com/media/ozBkpa47CVUamGSLZT/giphy.gif">
 
+Tecnológico de Monterrey, Campus Estado de México. Agosto 2017 – Julio 2022 <br> 
+Ingeniería en Sistemas Computacionales. <br>
+
 Certificado en Certified Associate in Project Management (CAMP) 2021<br>
 
 Diplomado en Outbound Marketing 2020 <br> 
 
-Tecnológico de Monterrey, Campus Estado de México. Agosto 2017 – Actual <br> 
-Ingeniería en Sistemas Computacionales. <br>
-Fecha de graduación: Diciembre 2022 <br>
+
 <br>
 
 <img src="https://media.giphy.com/media/17MeIJkAJEqFa09EEg/giphy.gif">
