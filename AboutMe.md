@@ -2,11 +2,11 @@
 <h3>Ingeniería en Sistemas Computacionales. </h3> <br>
 <img src="https://media.giphy.com/media/1IdnAuVpugFozCVikh/giphy.gif">
 <p>
-• México <br>
+• Vancouver, CA <br>
 • v31.osorio@gmail.com <br>
 </p>
 
-Estudiante de 8vo semestre de Ingeniería de Sistemas Computacionales con experiencia en construcción de programas orientados a procesos y desarrollo de creación de contenido tecnológico en plataformas web. Interesada por la creación de nuevas soluciones en ciencia de datos y con interés en la difusión tecnológica destinada a disminuir la brecha de género en la tecnología. Busco concentrarme en el campo de administración de proyectos tecnológicos y desarrollo de nuevas metodologías destinadas a automatizar procesos. Poseo competencias de resolución de problemas, liderazgo y me considero una persona muy responsable, honesta y comprometida con el desarrollo moral y espiritual. 
+EIngeniera en Sistemas Computacionales con experiencia en construcción de programas orientados a procesos y desarrollo de creación de contenido tecnológico en plataformas web. Interesada por la creación de nuevas soluciones en ciencia de datos y con interés en la difusión tecnológica destinada a disminuir la brecha de género en la tecnología. Busco concentrarme en el campo de administración de proyectos tecnológicos y desarrollo de nuevas metodologías destinadas a automatizar procesos. Poseo competencias de resolución de problemas, liderazgo y me considero una persona muy responsable, honesta y comprometida con el desarrollo moral y espiritual. 
 
 <br> 
 <img src="https://media.giphy.com/media/Ut5BYxX8l2AAaR38n4/giphy.gif">
